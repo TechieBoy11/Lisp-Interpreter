@@ -56,7 +56,7 @@ Once compiled, run the interpreter and input LISP expressions:
 
 - C++17 or later
 - Standard libraries only (no external dependencies)
-- Vagrant (Designed to run in a Linux enviroment)
+- Vagrant (Designed to run in a Linux environment)
 
 ## Author
 
